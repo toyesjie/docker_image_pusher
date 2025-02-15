@@ -7,3 +7,6 @@ jellyfina/embyserver
 allanpk716/chinesesubfinder
 jellyfin/jellyfin
 linuxserver/jellyfin
+linuxserver/plex
+cnk3x/xunlei
+johngong/baidunetdisk
