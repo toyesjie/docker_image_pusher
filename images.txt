@@ -10,3 +10,5 @@ linuxserver/jellyfin
 linuxserver/plex
 cnk3x/xunlei
 johngong/baidunetdisk
+circleci/python
+deluan/navidrome
