@@ -5,3 +5,5 @@ amilys/embyserver
 tearsful/embyserver
 jellyfina/embyserver
 allanpk716/chinesesubfinder
+jellyfin/jellyfin
+linuxserver/jellyfin
