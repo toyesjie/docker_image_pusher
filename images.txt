@@ -13,7 +13,6 @@ johngong/baidunetdisk
 circleci/python
 deluan/navidrome
 photoprism/photoprism
-filebrowser/filebrowser
 xhofe/alist
 xiaoyaliu/alist
 linuxserver/syncthing
@@ -23,3 +22,4 @@ linuxserver/librespeed
 linuxserver/duplicati
 casjaysdevdocker/stirlingpdf
 cnk3x/xunlei:latest
+80x86/filebrowser
