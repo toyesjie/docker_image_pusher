@@ -5,5 +5,3 @@ amilys/embyserver
 tearsful/embyserver
 jellyfina/embyserver
 allanpk716/chinesesubfinder
-cnk3x/xunlei  
-johngong/baidunetdisk
