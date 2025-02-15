@@ -22,3 +22,4 @@ islasgeci/homepage
 linuxserver/librespeed
 linuxserver/duplicati
 casjaysdevdocker/stirlingpdf
+cnk3x/xunlei:latest
