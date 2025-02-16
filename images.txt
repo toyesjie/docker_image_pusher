@@ -23,3 +23,8 @@ linuxserver/duplicati
 casjaysdevdocker/stirlingpdf
 cnk3x/xunlei:latest
 80x86/filebrowser
+80x86/qbittorrent
+dzhuang/tinymediamanager
+deluan/navidrome
+ddsderek/tachidesk
+gotson/komga
