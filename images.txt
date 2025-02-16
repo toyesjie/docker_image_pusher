@@ -1,13 +1,6 @@
-alpine
-kasmweb/nginx:1.25.3
-cooderl/wewe-rss-sqlite:latest
 amilys/embyserver
 tearsful/embyserver
-jellyfina/embyserver
 allanpk716/chinesesubfinder
-jellyfin/jellyfin
-linuxserver/jellyfin
-linuxserver/plex
 cnk3x/xunlei
 johngong/baidunetdisk
 circleci/python
@@ -21,10 +14,10 @@ islasgeci/homepage
 linuxserver/librespeed
 linuxserver/duplicati
 casjaysdevdocker/stirlingpdf
-cnk3x/xunlei:latest
 80x86/filebrowser
 80x86/qbittorrent
 dzhuang/tinymediamanager
 deluan/navidrome
 ddsderek/tachidesk
 gotson/komga
+nyanmisaka/jellyfin
