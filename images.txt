@@ -6,8 +6,6 @@ johngong/baidunetdisk
 circleci/python
 deluan/navidrome
 photoprism/photoprism
-xhofe/alist
-xiaoyaliu/alist
 linuxserver/syncthing
 nastool/nas-tools
 islasgeci/homepage
@@ -21,3 +19,4 @@ deluan/navidrome
 ddsderek/tachidesk
 gotson/komga
 nyanmisaka/jellyfin
+romancin/tinymediamanager
