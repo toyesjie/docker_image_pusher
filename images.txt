@@ -20,3 +20,4 @@ ddsderek/tachidesk
 gotson/komga
 nyanmisaka/jellyfin
 romancin/tinymediamanager
+q123458384/tinymediamanager:4.0.6crack
