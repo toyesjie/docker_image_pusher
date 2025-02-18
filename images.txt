@@ -20,4 +20,4 @@ ddsderek/tachidesk
 gotson/komga
 nyanmisaka/jellyfin
 romancin/tinymediamanager
-
+linuxserver/heimdall
