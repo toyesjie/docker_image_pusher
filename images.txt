@@ -21,3 +21,4 @@ gotson/komga
 nyanmisaka/jellyfin
 romancin/tinymediamanager
 linuxserver/heimdall
+homarr/homarr
