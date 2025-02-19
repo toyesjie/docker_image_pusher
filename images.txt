@@ -1,5 +1,3 @@
-amilys/embyserver
-tearsful/embyserver
 allanpk716/chinesesubfinder
 cnk3x/xunlei
 johngong/baidunetdisk
@@ -22,3 +20,4 @@ romancin/tinymediamanager
 linuxserver/heimdall
 homarr/homarr
 dzhuang/tinymediamanager:v5.0.4
+amilys/embyserver:4.9.0.37
