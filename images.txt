@@ -1,1 +1,1 @@
-nastools/nas-tools:3.2.2
+allanpk716/chinesesubfinder:v0.55.3
