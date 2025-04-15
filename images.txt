@@ -10,3 +10,4 @@ jellyfin/jellyfin:latest
 amilys/embyserver:latest
 zishuo/embyserver
 amilys/embyserver
+hslr/sun-panel:latest
