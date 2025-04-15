@@ -1,2 +1,7 @@
 hslr/sun-panel
 ddg5366/roon
+allanpk716/chinesesubfinder:latest
+johngong/baidune
+cnk3x/xunlei
+dzhuang/tinymediamanager:v5.0.4
+amilys/embyserver:latest
