@@ -1,5 +1,6 @@
 hslr/sun-panel
 ddg5366/roon
+steefdebruijn/docker-roonserver:latest
 allanpk716/chinesesubfinder:latest
 johngong/baidunetdisk
 cnk3x/xunlei
