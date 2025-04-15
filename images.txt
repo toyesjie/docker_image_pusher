@@ -2,9 +2,11 @@ hslr/sun-panel
 ddg5366/roon
 steefdebruijn/docker-roonserver:latest
 allanpk716/chinesesubfinder:latest
+allanpk716/chinesesubfinder
 johngong/baidunetdisk
 cnk3x/xunlei
 dzhuang/tinymediamanager:v5.0.4
+jellyfin/jellyfin:latest
 amilys/embyserver:latest
 zishuo/embyserver
-amilys/embyserver:4.9.0.37
+amilys/embyserver
