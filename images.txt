@@ -5,3 +5,5 @@ johngong/baidunetdisk
 cnk3x/xunlei
 dzhuang/tinymediamanager:v5.0.4
 amilys/embyserver:latest
+zishuo/embyserver
+amilys/embyserver:4.9.0.37
