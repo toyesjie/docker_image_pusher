@@ -30,3 +30,4 @@ romancin/tinymediamanager
 linuxserver/heimdall
 homarr/homarr
 steefdebruijn/docker-roonserver
+ypptec/nascab
