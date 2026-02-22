@@ -1,1 +1,1 @@
-moontechlab/lunatv:latest
+lunatv:latest
