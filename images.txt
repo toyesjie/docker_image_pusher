@@ -1,1 +1,1 @@
-qdnas/flatnas
+qdnas/flatnas:latest
